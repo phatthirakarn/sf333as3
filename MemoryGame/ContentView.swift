@@ -4,7 +4,7 @@
 //
 //  Phatthira Karn 6410742453
 //  Wasawat Cheepsamut 6410742735
-//eiei
+//
 
 import SwiftUI
 

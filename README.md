@@ -8,4 +8,4 @@ This project will include only the UI of the application and does not include th
 2. วสวัตติ์ ชีพสมุทร์ 6410742735
 
 * ลิงค์ของคลิป demo การรัน
-  - url: 
+  - url: https://drive.google.com/drive/folders/1tM2WYNaaa3jKHZ3YTcmfw2Zjv3gA_xo1?usp=sharing
