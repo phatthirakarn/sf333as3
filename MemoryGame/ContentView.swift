@@ -3,7 +3,7 @@
 //  MemoryGame
 //
 //  Wasawat Cheepsamut 6410742735
-//  Phatthira Karn
+//  Phatthira Karn 6410742453
 //
 
 import SwiftUI
